@@ -1,2 +1,30 @@
-# home
-Home for all Orc packages
+# Welcome to the open source centre of WildGums
+---
+
+# Introduction
+
+
+
+# Vision
+
+
+# List of components
+
+| Component             | Description                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Orc.Analytics         | Makes it very easy to integration Google Analytics with Catel projects.                                                                                                                                                                                                                                                                     |
+| Orc.AutomaticSupport  | Allows the user to easily download a remote file that will validate and provide automatic support to the end-user.                                                                                                                                                                                                                          |
+| Orc.CommandLine       | Command line parsing with an easy context class and automatic help system.                                                                                                                                                                                                                                                                  |
+| Orc.Controls          | WPF controls like DatePicker, DateTimePicker, TimeSpanPicker, LogViewer, WatermarkTextBox and much more…                                                                                                                                                                                                                                    |
+| Orc.CrashReporting    | Catch unhandled exceptions and automatically gather information to submit for the end-user as crash reports.                                                                                                                                                                                                                                |
+| Orc.CsvHelper         | Small library of extensions and helper methods for the CsvHelper library.                                                                                                                                                                                                                                                                   |
+| Orc.Feedback          | Allows developers to easily get feedback from the end-user.                                                                                                                                                                                                                                                                                 |
+| Orc.FilterBuilder     | Adds complex filtering functionalities to your application. A user can create custom (dynamic) filters in a visual way and store them. Very nice component to allow a user to create filters of collections.                                                                                                                                |
+| Orc.LicenseManager    | Check software licenses. Consists of client and server (example) code. Uses Portable.Licensing under the hood.                                                                                                                                                                                                                              |
+| Orc.LogViewer         | If the LogViewer in Orc.Controls is too basic for you, this component expands that control by adding filtering and much more features.                                                                                                                                                                                                      |
+| Orc.Metadata          | Provides base classes to store metadata about objects. This can be useful for a lot of information about objects. Might seem abstract, but this prevents you from repeating the same code over and over again.                                                                                                                              |
+| Orc.Notifications     | Show desktop notifications to the user with the ability to add commands to the notifications. In a few lines of code you have beautiful notifications in your app.                                                                                                                                                                          |
+| Orc.NuGetExplorer     | A custom NuGet explorer. We use this because plugins of our applications are deployed via NuGet. This component allows the users to install and update their plugins.                                                                                                                                                                       |
+| Orc.ProjectManagement | Manage files and projects inside your application. Instead of messing around with lots of handlers and events, this library manages projects for you (can be a file, directory, database, really anything). Other components can subscribe to this if they are interested. Are you writing document-focused apps? You really want this one. |
+|                       |                                                                                                                                                                                                                                                                                                                                             |
+
