@@ -1,7 +1,4 @@
 # Welcome to the open source centre of WildGums
----
-
-# Introduction
 
 Imagine yourself in a candy shop. Everywhere you look, there is the candy you were looking for! That's what this centre appears to be for WPF developers. A list of high-quality, free and open source components. Each library can be used on its own, but this set of libraries is built to work seamingless together as well.
 
@@ -15,6 +12,11 @@ The following platforms are supported:
 
 # Vision
 
+WildGums is a company that develops WPF and web based professional, great looking software. While developing the software, we are constantly looking for the best frameworks and components out there. A lot of components are hyped, but seem to provide very little added value. One of the frameworks that did deliver its promise is [Catel](https://github.com/catel/catel). It's a very mature, well documented, well maintained and feature-rich application development platform.
+
+After we found our core platform to build applications, we were still having problems finding high-quality libraries. We have tried several commercial vendors, but support was slow (or lacking). This was the moment we decided it was time for a change. We were going to develop our own components, giving us control over the quality and throughput.
+
+Since we started the development, it has only confirmed our believe in open source software. It's a great way to get feedback from other developers. Even better, they can contribute to the components as well to improve the components in ways we might not even have thought of.
 
 # List of components
 
